@@ -1,0 +1,2 @@
+#export PS1="[\[$(tput sgr0)\]\[\033[38;5;213m\]\u@\h\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;69m\]\w\[$(tput sgr0)\]\[\033[38;5;15m\]]\\$ \[$(tput sgr0)\]"
+alias sudo="python3 ~/Scripts/sudoer_lecture.py && sudo"
